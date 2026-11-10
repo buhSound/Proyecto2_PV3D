@@ -7062,3 +7062,936 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.09-21.53.23:994][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19933.955078
 [2026.11.09-21.53.24:994][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.09-21.53.24:994][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19934.623047, Update Interval: 345.843689
+[2026.11.09-22.00.00:729][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20331.025391
+[2026.11.09-22.00.01:729][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.00.01:729][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20331.693359, Update Interval: 319.032562
+[2026.11.09-22.03.08:135][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.11.09-22.03.08:139][285]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2026.11.09-22.06.17:778][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20708.318359
+[2026.11.09-22.06.18:779][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.06.18:779][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20708.986328, Update Interval: 303.995483
+[2026.11.09-22.12.05:160][896]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21055.953125
+[2026.11.09-22.12.06:161][899]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.12.06:161][899]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21056.619141, Update Interval: 319.014252
+[2026.11.09-22.13.08:545][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.09-22.13.08:548][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2026.11.09-22.18.19:535][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21430.597656
+[2026.11.09-22.18.20:535][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.18.20:535][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21431.265625, Update Interval: 313.125397
+[2026.11.09-22.22.20:668][988]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2026.11.09-22.22.20:676][988]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2026.11.09-22.22.20:689][989]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2026.11.09-22.22.28:952][861]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> ST_RunnerStats
+[2026.11.09-22.22.28:999][861]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2026.11.09-22.22.30:644][ 34]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/ST_RunnerStats.ST_RunnerStats
+[2026.11.09-22.23.07:596][761]LogDerivedDataCache: C:/Users/diego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.09-22.23.35:731][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-22.23.35:783][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ST_RunnerStats] ([1] browsable assets)...
+[2026.11.09-22.23.35:784][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/ST_RunnerStats]
+[2026.11.09-22.23.35:784][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ST_RunnerStats" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Content/ST_RunnerStats.uasset" SILENT=true
+[2026.11.09-22.23.35:785][105]LogSavePackage: Moving output files for package: /Game/ST_RunnerStats
+[2026.11.09-22.23.35:785][105]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/ST_RunnerStats622E82274D746EDAE20CF694285589C6.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/ST_RunnerStats.uasset'
+[2026.11.09-22.23.35:795][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.414 ms (total: 4.53 sec)
+[2026.11.09-22.23.35:824][105]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-22.23.35:824][105]LogContentValidation: Enabled validators:
+[2026.11.09-22.23.35:824][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-22.23.35:824][105]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-22.23.35:824][105]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-22.23.35:824][105]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-22.23.35:824][105]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-22.23.35:824][105]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-22.23.35:824][105]AssetCheck: /Game/ST_RunnerStats Validando recurso
+[2026.11.09-22.23.56:068][873]LogSlate: Window 'Elige la clase padre' being destroyed
+[2026.11.09-22.23.56:079][873]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.11.09-22.23.56:086][873]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.11.09-22.23.56:095][874]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.11.09-22.24.09:871][299]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_HealthComponent
+[2026.11.09-22.24.09:877][299]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.11.09-22.24.11:476][457]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_HealthComponent.BP_HealthComponent
+[2026.11.09-22.24.11:476][457]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.11.09-22.24.19:927][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21791.515625
+[2026.11.09-22.24.20:927][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.24.20:927][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21792.183594, Update Interval: 303.458954
+[2026.11.09-22.24.41:123][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.11.09-22.24.41:128][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.137
+[2026.11.09-22.24.41:129][ 40]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_HealthComponent] ([2] browsable assets)...
+[2026.11.09-22.24.41:129][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_HealthComponent]
+[2026.11.09-22.24.41:129][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_HealthComponent" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Saved/Autosaves/Game/BP_HealthComponent_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.11.09-22.24.41:132][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_HealthComponent_Auto3
+[2026.11.09-22.24.41:132][ 40]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_HealthComponent_Auto314AAB94A4533EE4C1DCEEFB9353BEC12.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/Autosaves/Game/BP_HealthComponent_Auto3.uasset'
+[2026.11.09-22.24.41:133][ 40]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.11.09-22.29.54:277][894]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22126.017578
+[2026.11.09-22.29.54:460][913]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.29.54:460][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22126.193359, Update Interval: 300.981476
+[2026.11.09-22.34.46:586][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.11.09-22.34.46:593][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2026.11.09-22.34.46:593][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_HealthComponent] ([2] browsable assets)...
+[2026.11.09-22.34.46:593][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_HealthComponent]
+[2026.11.09-22.34.46:593][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_HealthComponent" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Saved/Autosaves/Game/BP_HealthComponent_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.11.09-22.34.46:598][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_HealthComponent_Auto4
+[2026.11.09-22.34.46:598][605]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_HealthComponent_Auto433CED60742498D1B8373099275E75CFC.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/Autosaves/Game/BP_HealthComponent_Auto4.uasset'
+[2026.11.09-22.34.46:598][605]LogFileHelpers: Auto-saving content packages took 0.006
+[2026.11.09-22.35.45:626][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22477.238281
+[2026.11.09-22.35.45:817][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.35.45:817][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22477.414062, Update Interval: 330.929291
+[2026.11.09-22.36.24:228][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-22.36.24:290][565]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_HealthComponent] ([2] browsable assets)...
+[2026.11.09-22.36.24:290][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_HealthComponent]
+[2026.11.09-22.36.24:290][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_HealthComponent" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Content/BP_HealthComponent.uasset" SILENT=true
+[2026.11.09-22.36.24:294][565]LogSavePackage: Moving output files for package: /Game/BP_HealthComponent
+[2026.11.09-22.36.24:294][565]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_HealthComponent599F991A42F8CF7E6103899C5A603C61.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/BP_HealthComponent.uasset'
+[2026.11.09-22.36.24:307][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.660 ms (total: 4.61 sec)
+[2026.11.09-22.36.24:351][565]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-22.36.24:351][565]LogContentValidation: Enabled validators:
+[2026.11.09-22.36.24:351][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-22.36.24:352][565]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-22.36.24:352][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-22.36.24:352][565]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-22.36.24:352][565]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-22.36.24:352][565]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-22.36.24:352][565]AssetCheck: /Game/BP_HealthComponent Validando recurso
+[2026.11.09-22.36.29:374][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.11.09-22.39.24:842][705]LogSlate: Window 'Añadir componente de blueprint' being destroyed
+[2026.11.09-22.41.50:716][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.11.09-22.42.02:755][667]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22855.341797
+[2026.11.09-22.42.02:949][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.42.02:949][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22855.523438, Update Interval: 333.903015
+[2026.11.09-22.43.04:261][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-22.43.04:304][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.11.09-22.43.04:310][666]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.11.09-22.43.04:310][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.11.09-22.43.04:326][666]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.11.09-22.43.04:326][666]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_ThirdPersonCharacter68E1CE6C43505E0D5F6406A7C46EDA04.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.11.09-22.43.04:336][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.225 ms (total: 4.69 sec)
+[2026.11.09-22.43.04:371][666]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-22.43.04:371][666]LogContentValidation: Enabled validators:
+[2026.11.09-22.43.04:371][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-22.43.04:371][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-22.43.04:371][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-22.43.04:371][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-22.43.04:371][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-22.43.04:371][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-22.43.04:371][666]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando recurso
+[2026.11.09-22.43.48:475][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-22.43.48:516][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.11.09-22.43.48:523][956]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.11.09-22.43.48:523][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.11.09-22.43.48:537][956]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.11.09-22.43.48:538][956]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_ThirdPersonCharacter781101804E3E11842EF8988F031CEFF0.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.11.09-22.43.48:547][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.715 ms (total: 4.76 sec)
+[2026.11.09-22.43.48:577][956]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-22.43.48:577][956]LogContentValidation: Enabled validators:
+[2026.11.09-22.43.48:577][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-22.43.48:577][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-22.43.48:577][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-22.43.48:577][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-22.43.48:577][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-22.43.48:577][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-22.43.48:577][956]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando recurso
+[2026.11.09-22.43.50:324][116]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.11.09-22.43.50:329][116]LogContentBundle: [ThirdPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.11.09-22.43.50:329][116]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.11.09-22.43.50:332][116]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.643 ms (total: 109.676 ms)
+[2026.11.09-22.43.50:335][116]LogPlayLevel: [PlayLevel] Compiling ABP_Runner before play...
+[2026.11.09-22.43.50:343][116]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2026.11.09-22.43.50:438][116]LogPlayLevel: [PlayLevel] Compiling BP_BarreraDestructible before play...
+[2026.11.09-22.43.50:479][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.11.09-22.43.50:490][116]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (3 blueprints)
+[2026.11.09-22.43.50:490][116]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-22.43.50:492][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002251s)
+[2026.11.09-22.43.50:492][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002283s)
+[2026.11.09-22.43.50:505][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.11.09-22.43.50:508][116]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.11.09-22.43.50:511][116]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.09-22.43.50:511][116]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-22.43.50:511][116]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-22.43.50:511][116]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.09-22.43.50:512][116]LogWorldPartition: Display: WorldPartition initialize took 996 us (total: 229.017 ms)
+[2026.11.09-22.43.50:512][116]LogPlayLevel: PIE: World Init took: (0.003740s)
+[2026.11.09-22.43.50:513][116]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2026.11.09-22.43.50:513][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-22.43.50:513][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-22.43.50:513][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-22.43.50:513][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-22.43.50:513][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-22.43.50:513][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-22.43.50:513][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-22.43.50:513][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-22.43.50:513][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-22.43.50:513][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-22.43.50:513][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-22.43.50:514][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-22.43.50:539][116]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (MOMENTUM 4)
+[2026.11.09-22.43.50:539][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-22.43.50:539][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-22.43.50:539][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-22.43.50:539][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2026.11.09-22.43.50:539][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2026.11.09-22.43.50:542][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2026.11.09-22.43.50:542][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2026.11.09-22.43.50:542][116]LogInit: FAudioDevice initialized with ID 64.
+[2026.11.09-22.43.50:542][116]LogAudio: Display: Audio Device (ID: 64) registered with world 'ThirdPersonMap'.
+[2026.11.09-22.43.50:543][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2026.11.09-22.43.50:546][116]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.09-22.43.50:547][116]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.11.09-19.43.50
+[2026.11.09-22.43.50:548][116]LogWorld: Bringing up level for play took: 0.001275
+[2026.11.09-22.43.50:549][116]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2026.11.09-22.43.50:553][116]LogBlueprintUserMessages: [BP_TileSpawner_C_UAID_4C23387BC5343F1303_1943603983] Spawner Iniciado
+[2026.11.09-22.43.50:557][116]PIE: El servidor ha iniciado sesión
+[2026.11.09-22.43.50:558][116]PIE: Tiempo de inicio total de la reproducción en el editor de 0,228 segundos.
+[2026.11.09-22.43.55:287][534]LogBlueprintUserMessages: [BP_BarreraDestructible_C_1] Choque
+[2026.11.09-22.44.04:552][454]LogBlueprintUserMessages: [BP_BarreraDestructible_C_2] Choque
+[2026.11.09-22.44.07:438][748]LogBlueprintUserMessages: [BP_BarreraDestructible_C_3] Choque
+[2026.11.09-22.44.11:307][142]LogBlueprintUserMessages: [BP_BarreraDestructible_C_4] Choque
+[2026.11.09-22.44.12:500][262]LogBlueprintUserMessages: [BP_BarreraDestructible_C_5] Choque
+[2026.11.09-22.44.13:647][377]LogBlueprintUserMessages: [BP_BarreraDestructible_C_6] Choque
+[2026.11.09-22.44.15:309][544]LogBlueprintUserMessages: [BP_BarreraDestructible_C_7] Choque
+[2026.11.09-22.44.15:843][597]LogBlueprintUserMessages: [BP_BarreraDestructible_C_8] Choque
+[2026.11.09-22.44.16:377][650]LogBlueprintUserMessages: [BP_BarreraDestructible_C_9] Choque
+[2026.11.09-22.44.21:774][198]LogBlueprintUserMessages: [BP_BarreraDestructible_C_12] Choque
+[2026.11.09-22.44.22:264][248]LogBlueprintUserMessages: [BP_BarreraDestructible_C_13] Choque
+[2026.11.09-22.44.26:160][642]LogBlueprintUserMessages: [BP_BarreraDestructible_C_17] Choque
+[2026.11.09-22.44.27:405][768]LogBlueprintUserMessages: [BP_BarreraDestructible_C_18] Choque
+[2026.11.09-22.44.27:803][808]LogBlueprintUserMessages: [BP_BarreraDestructible_C_19] Choque
+[2026.11.09-22.44.33:538][389]LogBlueprintUserMessages: [BP_BarreraDestructible_C_22] Choque
+[2026.11.09-22.44.33:898][425]LogBlueprintUserMessages: [BP_BarreraDestructible_C_23] Choque
+[2026.11.09-22.44.36:016][637]LogBlueprintUserMessages: [BP_BarreraDestructible_C_24] Choque
+[2026.11.09-22.44.51:592][198]LogBlueprintUserMessages: [BP_BarreraDestructible_C_38] Choque
+[2026.11.09-22.44.53:474][382]LogBlueprintUserMessages: [BP_BarreraDestructible_C_40] Choque
+[2026.11.09-22.44.55:064][538]LogBlueprintUserMessages: [BP_BarreraDestructible_C_42] Choque
+[2026.11.09-22.44.59:126][935]LogBlueprintUserMessages: [BP_BarreraDestructible_C_48] Choque
+[2026.11.09-22.45.00:590][ 78]LogBlueprintUserMessages: [BP_BarreraDestructible_C_50] Choque
+[2026.11.09-22.45.02:037][220]LogBlueprintUserMessages: [BP_BarreraDestructible_C_52] Choque
+[2026.11.09-22.45.04:392][449]LogBlueprintUserMessages: [BP_BarreraDestructible_C_54] Choque
+[2026.11.09-22.45.07:363][734]LogBlueprintUserMessages: [BP_BarreraDestructible_C_59] Choque
+[2026.11.09-22.45.07:811][777]LogBlueprintUserMessages: [BP_BarreraDestructible_C_60] Choque
+[2026.11.09-22.45.08:476][842]LogBlueprintUserMessages: [BP_BarreraDestructible_C_63] Choque
+[2026.11.09-22.45.08:916][884]LogBlueprintUserMessages: [BP_BarreraDestructible_C_64] Choque
+[2026.11.09-22.45.12:384][222]LogBlueprintUserMessages: [BP_BarreraDestructible_C_67] Choque
+[2026.11.09-22.45.12:605][243]LogBlueprintUserMessages: [BP_BarreraDestructible_C_68] Choque
+[2026.11.09-22.45.14:077][387]LogBlueprintUserMessages: [BP_BarreraDestructible_C_70] Choque
+[2026.11.09-22.45.21:708][129]LogBlueprintUserMessages: [BP_BarreraDestructible_C_79] Choque
+[2026.11.09-22.45.21:909][148]LogBlueprintUserMessages: [BP_BarreraDestructible_C_80] Choque
+[2026.11.09-22.45.23:820][331]LogBlueprintUserMessages: [BP_BarreraDestructible_C_83] Choque
+[2026.11.09-22.45.24:570][403]LogBlueprintUserMessages: [BP_BarreraDestructible_C_84] Choque
+[2026.11.09-22.45.29:361][863]LogBlueprintUserMessages: [BP_BarreraDestructible_C_88] Choque
+[2026.11.09-22.45.32:551][168]LogBlueprintUserMessages: [BP_BarreraDestructible_C_94] Choque
+[2026.11.09-22.45.33:425][251]LogBlueprintUserMessages: [BP_BarreraDestructible_C_95] Choque
+[2026.11.09-22.45.34:113][317]LogBlueprintUserMessages: [BP_BarreraDestructible_C_96] Choque
+[2026.11.09-22.45.34:286][333]LogBlueprintUserMessages: [BP_BarreraDestructible_C_97] Choque
+[2026.11.09-22.45.35:998][498]LogBlueprintUserMessages: [BP_BarreraDestructible_C_99] Choque
+[2026.11.09-22.45.36:169][514]LogBlueprintUserMessages: [BP_BarreraDestructible_C_100] Choque
+[2026.11.09-22.45.38:362][723]LogBlueprintUserMessages: [BP_BarreraDestructible_C_103] Choque
+[2026.11.09-22.45.38:523][738]LogBlueprintUserMessages: [BP_BarreraDestructible_C_104] Choque
+[2026.11.09-22.45.40:671][944]LogBlueprintUserMessages: [BP_BarreraDestructible_C_109] Choque
+[2026.11.09-22.45.44:208][284]LogBlueprintUserMessages: [BP_BarreraDestructible_C_112] Choque
+[2026.11.09-22.45.46:730][524]LogBlueprintUserMessages: [BP_BarreraDestructible_C_115] Choque
+[2026.11.09-22.45.47:354][581]LogBlueprintUserMessages: [BP_BarreraDestructible_C_116] Choque
+[2026.11.09-22.45.48:435][685]LogBlueprintUserMessages: [BP_BarreraDestructible_C_119] Choque
+[2026.11.09-22.45.48:741][713]LogBlueprintUserMessages: [BP_BarreraDestructible_C_120] Choque
+[2026.11.09-22.45.55:314][342]LogBlueprintUserMessages: [BP_BarreraDestructible_C_125] Choque
+[2026.11.09-22.45.56:922][496]LogBlueprintUserMessages: [BP_BarreraDestructible_C_127] Choque
+[2026.11.09-22.45.58:210][619]LogBlueprintUserMessages: [BP_BarreraDestructible_C_130] Choque
+[2026.11.09-22.45.58:357][633]LogBlueprintUserMessages: [BP_BarreraDestructible_C_131] Choque
+[2026.11.09-22.45.59:347][727]LogBlueprintUserMessages: [BP_BarreraDestructible_C_133] Choque
+[2026.11.09-22.46.00:051][794]LogBlueprintUserMessages: [BP_BarreraDestructible_C_135] Choque
+[2026.11.09-22.46.00:062][795]LogBlueprintUserMessages: [BP_BarreraDestructible_C_135] Choque
+[2026.11.09-22.46.00:904][875]LogBlueprintUserMessages: [BP_BarreraDestructible_C_136] Choque
+[2026.11.09-22.46.02:581][ 34]LogBlueprintUserMessages: [BP_BarreraDestructible_C_140] Choque
+[2026.11.09-22.46.04:363][203]LogBlueprintUserMessages: [BP_BarreraDestructible_C_144] Choque
+[2026.11.09-22.46.08:691][611]LogBlueprintUserMessages: [BP_BarreraDestructible_C_149] Choque
+[2026.11.09-22.46.09:215][659]LogBlueprintUserMessages: [BP_BarreraDestructible_C_152] Choque
+[2026.11.09-22.46.10:006][730]LogBlueprintUserMessages: [BP_BarreraDestructible_C_155] Choque
+[2026.11.09-22.46.13:270][ 14]LogBlueprintUserMessages: [BP_BarreraDestructible_C_160] Choque
+[2026.11.09-22.46.14:936][156]LogBlueprintUserMessages: [BP_BarreraDestructible_C_162] Choque
+[2026.11.09-22.46.18:975][516]LogBlueprintUserMessages: [BP_BarreraDestructible_C_172] Choque
+[2026.11.09-22.46.19:344][548]LogBlueprintUserMessages: [BP_BarreraDestructible_C_174] Choque
+[2026.11.09-22.46.20:586][658]LogBlueprintUserMessages: [BP_BarreraDestructible_C_176] Choque
+[2026.11.09-22.46.21:332][721]LogBlueprintUserMessages: [BP_BarreraDestructible_C_178] Choque
+[2026.11.09-22.46.21:810][760]LogBlueprintUserMessages: [BP_BarreraDestructible_C_179] Choque
+[2026.11.09-22.46.22:543][821]LogBlueprintUserMessages: [BP_BarreraDestructible_C_180] Choque
+[2026.11.09-22.46.26:039][107]LogBlueprintUserMessages: [BP_BarreraDestructible_C_187] Choque
+[2026.11.09-22.46.26:988][183]LogBlueprintUserMessages: [BP_BarreraDestructible_C_189] Choque
+[2026.11.09-22.46.27:578][231]LogBlueprintUserMessages: [BP_BarreraDestructible_C_190] Choque
+[2026.11.09-22.46.29:696][402]LogBlueprintUserMessages: [BP_BarreraDestructible_C_192] Choque
+[2026.11.09-22.46.30:858][496]LogBlueprintUserMessages: [BP_BarreraDestructible_C_195] Choque
+[2026.11.09-22.46.30:969][505]LogBlueprintUserMessages: [BP_BarreraDestructible_C_196] Choque
+[2026.11.09-22.46.33:126][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-22.46.33:126][669]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-22.46.33:127][669]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-22.46.33:130][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-22.46.33:131][669]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.11.09-22.46.33:136][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.09-22.46.33:141][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-22.46.33:160][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-22.46.33:160][669]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2026.11.09-22.46.33:160][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2026.11.09-22.46.33:162][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2026.11.09-22.46.33:182][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.11.09-22.46.33:240][670]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2026.11.09-22.47.42:038][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.11.09-22.47.42:043][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2026.11.09-22.48.33:607][404]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23245.589844
+[2026.11.09-22.48.33:781][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.48.33:781][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23245.757812, Update Interval: 357.463928
+[2026.11.09-22.55.09:485][818]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23641.968750
+[2026.11.09-22.55.10:484][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-22.55.10:484][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23642.636719, Update Interval: 354.561584
+[2026.11.09-22.57.42:868][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.11.09-22.57.42:875][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2026.11.09-22.57.42:875][278]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_HUD] ([2] browsable assets)...
+[2026.11.09-22.57.42:879][278]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_HUD.WBP_HUD]
+[2026.11.09-22.57.42:879][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_HUD]
+[2026.11.09-22.57.42:879][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_HUD" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Saved/Autosaves/Game/WBP_HUD_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.11.09-22.57.42:884][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WBP_HUD_Auto5
+[2026.11.09-22.57.42:884][278]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/WBP_HUD_Auto5AD9E45E54BF25999A3B14386D561A83E.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/Autosaves/Game/WBP_HUD_Auto5.uasset'
+[2026.11.09-22.57.42:885][278]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.11.09-23.00.33:969][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.11.09-23.00.40:281][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.11.09-23.00.41:573][453]LogSlate: Window 'Guardar contenido' being destroyed
+[2026.11.09-23.00.41:583][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.00.41:611][453]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_HUD] ([2] browsable assets)...
+[2026.11.09-23.00.41:612][453]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_HUD.WBP_HUD]
+[2026.11.09-23.00.41:612][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_HUD]
+[2026.11.09-23.00.41:612][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_HUD" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Content/WBP_HUD.uasset" SILENT=true
+[2026.11.09-23.00.41:617][453]LogSavePackage: Moving output files for package: /Game/WBP_HUD
+[2026.11.09-23.00.41:617][453]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/WBP_HUD097D816C484DF0E295EA6CBEE0EFDDD6.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/WBP_HUD.uasset'
+[2026.11.09-23.00.41:628][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.691 ms (total: 4.80 sec)
+[2026.11.09-23.00.41:659][453]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-23.00.41:659][453]LogContentValidation: Enabled validators:
+[2026.11.09-23.00.41:659][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.00.41:659][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.00.41:660][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.00.41:660][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.00.41:660][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.00.41:660][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.00.41:660][453]AssetCheck: /Game/WBP_HUD Validando recurso
+[2026.11.09-23.01.53:375][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24046.218750
+[2026.11.09-23.01.53:826][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.01.53:826][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24046.664062, Update Interval: 317.666565
+[2026.11.09-23.02.11:519][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.02.11:565][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_HUD] ([2] browsable assets)...
+[2026.11.09-23.02.11:567][587]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_HUD.WBP_HUD]
+[2026.11.09-23.02.11:567][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_HUD]
+[2026.11.09-23.02.11:567][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_HUD" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Content/WBP_HUD.uasset" SILENT=true
+[2026.11.09-23.02.11:572][587]LogSavePackage: Moving output files for package: /Game/WBP_HUD
+[2026.11.09-23.02.11:572][587]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/WBP_HUD407261F24405A9763CC8F78D77CC8769.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/WBP_HUD.uasset'
+[2026.11.09-23.02.11:583][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.131 ms (total: 4.87 sec)
+[2026.11.09-23.02.11:613][587]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-23.02.11:613][587]LogContentValidation: Enabled validators:
+[2026.11.09-23.02.11:613][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.02.11:613][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.02.11:613][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.02.11:613][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.02.11:613][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.02.11:613][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.02.11:614][587]AssetCheck: /Game/WBP_HUD Validando recurso
+[2026.11.09-23.02.48:299][907]LogSlate: Took 0.007159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.11.09-23.03.07:967][661]LogSlate: Window 'Selector de color' being destroyed
+[2026.11.09-23.03.10:903][922]LogSlate: Window 'Selector de color' being destroyed
+[2026.11.09-23.03.15:926][372]LogSlate: Window 'Selector de color' being destroyed
+[2026.11.09-23.03.19:107][655]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:108][655]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:111][655]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:160][656]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:182][656]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:193][657]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:244][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:266][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:278][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:280][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:283][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:332][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:333][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:366][661]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:369][661]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:417][662]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:439][662]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:522][664]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:534][665]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:913][684]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:914][684]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:965][685]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:967][685]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:968][685]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.19:989][685]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:001][686]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:004][686]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:054][687]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:087][688]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:090][688]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:138][689]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:161][689]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:240][691]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:253][692]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.20:301][693]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.22:620][865]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.22:621][865]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.22:624][865]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.22:673][866]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.22:675][866]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.22:698][866]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.22:710][867]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:336][160]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:337][160]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:339][160]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:392][161]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:393][161]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:428][162]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:473][163]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:495][163]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:507][164]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:578][165]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:592][166]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:638][167]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:673][168]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:743][169]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:822][171]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:834][172]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:913][174]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.26:978][175]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:036][177]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:495][198]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:496][198]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:498][198]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:547][199]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:570][199]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:582][200]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:630][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:652][201]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:664][202]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:667][202]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:716][203]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:749][204]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:750][204]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:753][204]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:800][205]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:821][205]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:900][207]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:913][208]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:991][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.27:994][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:042][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:044][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:066][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:079][212]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:127][213]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:149][213]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:163][214]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:245][216]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:293][217]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:315][217]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:326][218]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:376][219]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:398][219]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.28:410][220]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:871][615]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:872][615]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:873][615]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:873][615]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:876][615]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:926][616]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:928][616]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:929][616]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:930][616]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:951][616]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.32:964][617]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.33:014][618]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.33:035][618]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.33:049][619]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.33:126][621]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.03.33:171][622]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Arrastrar y soltar widget entirely.
+[2026.11.09-23.04.00:371][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.04.00:419][846]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_HUD] ([2] browsable assets)...
+[2026.11.09-23.04.00:420][846]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_HUD.WBP_HUD]
+[2026.11.09-23.04.00:420][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_HUD]
+[2026.11.09-23.04.00:420][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_HUD" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Content/WBP_HUD.uasset" SILENT=true
+[2026.11.09-23.04.00:426][846]LogSavePackage: Moving output files for package: /Game/WBP_HUD
+[2026.11.09-23.04.00:426][846]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/WBP_HUD5E65301C4FB92D5E16505DBAAF76F93D.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/WBP_HUD.uasset'
+[2026.11.09-23.04.00:436][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.033 ms (total: 4.93 sec)
+[2026.11.09-23.04.00:467][846]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-23.04.00:467][846]LogContentValidation: Enabled validators:
+[2026.11.09-23.04.00:467][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.04.00:467][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.04.00:467][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.04.00:467][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.04.00:467][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.04.00:467][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.04.00:468][846]AssetCheck: /Game/WBP_HUD Validando recurso
+[2026.11.09-23.04.07:469][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.11.09-23.05.03:200][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.05.03:249][621]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.11.09-23.05.03:282][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.11.09-23.05.03:282][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.11.09-23.05.03:297][621]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.11.09-23.05.03:297][621]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_ThirdPersonCharacterBCADFCB441A8FF57DEE5FAAF8F81FECE.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.11.09-23.05.03:308][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.653 ms (total: 5.04 sec)
+[2026.11.09-23.05.03:334][621]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-23.05.03:334][621]LogContentValidation: Enabled validators:
+[2026.11.09-23.05.03:334][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.05.03:334][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.05.03:334][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.05.03:334][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.05.03:334][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.05.03:334][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.05.03:334][621]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando recurso
+[2026.11.09-23.05.07:897][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.05.07:929][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.11.09-23.05.07:929][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.11.09-23.05.07:943][ 54]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.11.09-23.05.07:944][ 54]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_ThirdPersonCharacter48961DAA4CEA0CA5FB001A957ACD646E.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.11.09-23.05.07:953][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.017 ms (total: 5.10 sec)
+[2026.11.09-23.05.07:985][ 54]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-23.05.07:985][ 54]LogContentValidation: Enabled validators:
+[2026.11.09-23.05.07:985][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.05.07:985][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.05.07:985][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.05.07:985][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.05.07:985][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.05.07:985][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.05.07:985][ 54]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando recurso
+[2026.11.09-23.05.09:881][237]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.11.09-23.05.09:886][237]LogContentBundle: [ThirdPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.11.09-23.05.09:886][237]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.11.09-23.05.09:887][237]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.759 ms (total: 111.436 ms)
+[2026.11.09-23.05.09:890][237]LogPlayLevel: [PlayLevel] Compiling ABP_Runner before play...
+[2026.11.09-23.05.09:891][237]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2026.11.09-23.05.10:083][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.11.09-23.05.10:087][237]LogPlayLevel: PlayLevel: Blueprint regeneration took 199 ms (2 blueprints)
+[2026.11.09-23.05.10:117][237]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-23.05.10:120][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002510s)
+[2026.11.09-23.05.10:120][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002550s)
+[2026.11.09-23.05.10:137][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.11.09-23.05.10:139][237]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.11.09-23.05.10:141][237]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.09-23.05.10:141][237]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-23.05.10:141][237]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-23.05.10:141][237]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.09-23.05.10:141][237]LogWorldPartition: Display: WorldPartition initialize took 876 us (total: 229.893 ms)
+[2026.11.09-23.05.10:142][237]LogPlayLevel: PIE: World Init took: (0.002199s)
+[2026.11.09-23.05.10:142][237]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2026.11.09-23.05.10:142][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-23.05.10:142][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-23.05.10:142][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-23.05.10:142][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-23.05.10:142][237]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-23.05.10:142][237]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-23.05.10:142][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-23.05.10:142][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-23.05.10:142][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-23.05.10:142][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-23.05.10:142][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-23.05.10:144][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-23.05.10:165][237]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (MOMENTUM 4)
+[2026.11.09-23.05.10:165][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-23.05.10:165][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-23.05.10:165][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-23.05.10:165][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2026.11.09-23.05.10:165][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2026.11.09-23.05.10:168][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2026.11.09-23.05.10:168][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2026.11.09-23.05.10:168][237]LogInit: FAudioDevice initialized with ID 65.
+[2026.11.09-23.05.10:168][237]LogAudio: Display: Audio Device (ID: 65) registered with world 'ThirdPersonMap'.
+[2026.11.09-23.05.10:168][237]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2026.11.09-23.05.10:171][237]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.09-23.05.10:172][237]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.11.09-20.05.10
+[2026.11.09-23.05.10:172][237]LogWorld: Bringing up level for play took: 0.001146
+[2026.11.09-23.05.10:174][237]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2026.11.09-23.05.10:176][237]LogBlueprintUserMessages: [BP_TileSpawner_C_UAID_4C23387BC5343F1303_1943603983] Spawner Iniciado
+[2026.11.09-23.05.10:179][237]PIE: El servidor ha iniciado sesión
+[2026.11.09-23.05.10:180][237]PIE: Tiempo de inicio total de la reproducción en el editor de 0,294 segundos.
+[2026.11.09-23.05.15:986][728]LogBlueprintUserMessages: [BP_BarreraDestructible_C_0] Choque
+[2026.11.09-23.05.17:063][829]LogBlueprintUserMessages: [BP_BarreraDestructible_C_1] Choque
+[2026.11.09-23.05.24:111][516]LogBlueprintUserMessages: [BP_BarreraDestructible_C_2] Choque
+[2026.11.09-23.05.24:870][588]LogBlueprintUserMessages: [BP_BarreraDestructible_C_3] Choque
+[2026.11.09-23.05.26:311][731]LogBlueprintUserMessages: [BP_BarreraDestructible_C_4] Choque
+[2026.11.09-23.05.27:217][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-23.05.27:217][817]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-23.05.27:217][817]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-23.05.27:218][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-23.05.27:218][817]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.11.09-23.05.27:226][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.09-23.05.27:231][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-23.05.27:248][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-23.05.27:248][817]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2026.11.09-23.05.27:248][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2026.11.09-23.05.27:250][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2026.11.09-23.05.27:257][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.11.09-23.05.27:338][818]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2026.11.09-23.08.01:035][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.11.09-23.08.01:038][182]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2026.11.09-23.08.10:659][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24423.333984
+[2026.11.09-23.08.11:659][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.08.11:659][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24424.000000, Update Interval: 346.090881
+[2026.11.09-23.14.37:037][370]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24810.316406
+[2026.11.09-23.14.38:037][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.14.38:037][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24810.984375, Update Interval: 304.167603
+[2026.11.09-23.18.01:432][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.11.09-23.18.01:436][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2026.11.09-23.20.14:734][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25148.511719
+[2026.11.09-23.20.15:734][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.20.15:734][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25149.177734, Update Interval: 303.345428
+[2026.11.09-23.23.07:596][ 26]LogDerivedDataCache: C:/Users/diego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.09-23.25.39:397][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.25.39:444][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_HUD] ([2] browsable assets)...
+[2026.11.09-23.25.39:447][986]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_HUD.WBP_HUD]
+[2026.11.09-23.25.39:447][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_HUD]
+[2026.11.09-23.25.39:447][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_HUD" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Content/WBP_HUD.uasset" SILENT=true
+[2026.11.09-23.25.39:454][986]LogSavePackage: Moving output files for package: /Game/WBP_HUD
+[2026.11.09-23.25.39:454][986]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/WBP_HUDB157EE4D477852E89162C39091C89C35.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/WBP_HUD.uasset'
+[2026.11.09-23.25.39:465][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.820 ms (total: 5.17 sec)
+[2026.11.09-23.25.39:499][986]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-23.25.39:499][986]LogContentValidation: Enabled validators:
+[2026.11.09-23.25.39:499][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.25.39:499][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.25.39:499][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.25.39:499][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.25.39:499][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.25.39:499][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.25.39:500][986]AssetCheck: /Game/WBP_HUD Validando recurso
+[2026.11.09-23.25.41:375][181]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.11.09-23.25.41:380][181]LogContentBundle: [ThirdPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.11.09-23.25.41:380][181]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.11.09-23.25.41:382][181]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.508 ms (total: 112.945 ms)
+[2026.11.09-23.25.41:386][181]LogPlayLevel: [PlayLevel] Compiling WBP_HUD before play...
+[2026.11.09-23.25.41:702][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.11.09-23.25.41:709][181]LogPlayLevel: PlayLevel: Blueprint regeneration took 326 ms (1 blueprints)
+[2026.11.09-23.25.41:709][181]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-23.25.41:711][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002197s)
+[2026.11.09-23.25.41:711][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002226s)
+[2026.11.09-23.25.41:726][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.11.09-23.25.41:729][181]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.11.09-23.25.41:730][181]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.09-23.25.41:730][181]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-23.25.41:730][181]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-23.25.41:730][181]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.09-23.25.41:731][181]LogWorldPartition: Display: WorldPartition initialize took 867 us (total: 230.761 ms)
+[2026.11.09-23.25.41:731][181]LogPlayLevel: PIE: World Init took: (0.002188s)
+[2026.11.09-23.25.41:732][181]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2026.11.09-23.25.41:732][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-23.25.41:732][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-23.25.41:732][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-23.25.41:732][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-23.25.41:732][181]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-23.25.41:732][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-23.25.41:732][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-23.25.41:732][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-23.25.41:732][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-23.25.41:732][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-23.25.41:732][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-23.25.41:734][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-23.25.41:755][181]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (MOMENTUM 4)
+[2026.11.09-23.25.41:755][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-23.25.41:755][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-23.25.41:755][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-23.25.41:755][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2026.11.09-23.25.41:755][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2026.11.09-23.25.41:757][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2026.11.09-23.25.41:757][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2026.11.09-23.25.41:757][181]LogInit: FAudioDevice initialized with ID 66.
+[2026.11.09-23.25.41:757][181]LogAudio: Display: Audio Device (ID: 66) registered with world 'ThirdPersonMap'.
+[2026.11.09-23.25.41:758][181]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2026.11.09-23.25.41:760][181]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.09-23.25.41:761][181]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.11.09-20.25.41
+[2026.11.09-23.25.41:762][181]LogWorld: Bringing up level for play took: 0.001122
+[2026.11.09-23.25.41:763][181]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2026.11.09-23.25.41:765][181]LogBlueprintUserMessages: [BP_TileSpawner_C_UAID_4C23387BC5343F1303_1943603983] Spawner Iniciado
+[2026.11.09-23.25.41:769][181]PIE: El servidor ha iniciado sesión
+[2026.11.09-23.25.41:770][181]PIE: Tiempo de inicio total de la reproducción en el editor de 0,389 segundos.
+[2026.11.09-23.25.43:895][373]LogBlueprintUserMessages: [BP_BarreraDestructible_C_0] Choque
+[2026.11.09-23.25.51:317][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-23.25.51:317][ 67]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-23.25.51:317][ 67]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-23.25.51:318][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-23.25.51:318][ 67]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.11.09-23.25.51:325][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.09-23.25.51:330][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-23.25.51:344][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-23.25.51:344][ 67]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2026.11.09-23.25.51:345][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2026.11.09-23.25.51:347][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2026.11.09-23.25.51:352][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.11.09-23.25.51:404][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2026.11.09-23.26.07:509][305]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25500.423828
+[2026.11.09-23.26.08:510][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.26.08:510][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25501.089844, Update Interval: 329.270294
+[2026.11.09-23.26.33:624][241]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.11.09-23.26.33:630][241]LogContentBundle: [ThirdPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.11.09-23.26.33:630][241]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.11.09-23.26.33:632][241]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.510 ms (total: 114.456 ms)
+[2026.11.09-23.26.33:632][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.09-23.26.33:632][241]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-23.26.33:637][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004585s)
+[2026.11.09-23.26.33:637][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004616s)
+[2026.11.09-23.26.33:654][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.11.09-23.26.33:657][241]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.11.09-23.26.33:658][241]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.09-23.26.33:658][241]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-23.26.33:658][241]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-23.26.33:658][241]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.09-23.26.33:660][241]LogWorldPartition: Display: WorldPartition initialize took 903 us (total: 231.664 ms)
+[2026.11.09-23.26.33:660][241]LogPlayLevel: PIE: World Init took: (0.002218s)
+[2026.11.09-23.26.33:661][241]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2026.11.09-23.26.33:661][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-23.26.33:661][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-23.26.33:661][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-23.26.33:661][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-23.26.33:661][241]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-23.26.33:661][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-23.26.33:661][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-23.26.33:661][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-23.26.33:661][241]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-23.26.33:661][241]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-23.26.33:661][241]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-23.26.33:663][241]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-23.26.33:691][241]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (MOMENTUM 4)
+[2026.11.09-23.26.33:692][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-23.26.33:692][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-23.26.33:692][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-23.26.33:692][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2026.11.09-23.26.33:692][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2026.11.09-23.26.33:694][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2026.11.09-23.26.33:694][241]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2026.11.09-23.26.33:694][241]LogInit: FAudioDevice initialized with ID 67.
+[2026.11.09-23.26.33:694][241]LogAudio: Display: Audio Device (ID: 67) registered with world 'ThirdPersonMap'.
+[2026.11.09-23.26.33:694][241]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2026.11.09-23.26.33:697][241]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.09-23.26.33:698][241]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.11.09-20.26.33
+[2026.11.09-23.26.33:699][241]LogWorld: Bringing up level for play took: 0.001209
+[2026.11.09-23.26.33:701][241]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2026.11.09-23.26.33:703][241]LogBlueprintUserMessages: [BP_TileSpawner_C_UAID_4C23387BC5343F1303_1943603983] Spawner Iniciado
+[2026.11.09-23.26.33:706][241]PIE: El servidor ha iniciado sesión
+[2026.11.09-23.26.33:707][241]PIE: Tiempo de inicio total de la reproducción en el editor de 0,077 segundos.
+[2026.11.09-23.26.46:279][450]LogBlueprintUserMessages: [BP_BarreraDestructible_C_2] Choque
+[2026.11.09-23.26.55:222][319]LogBlueprintUserMessages: [BP_BarreraDestructible_C_4] Choque
+[2026.11.09-23.27.01:806][912]LogBlueprintUserMessages: [BP_BarreraDestructible_C_7] Choque
+[2026.11.09-23.27.03:406][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-23.27.03:406][ 63]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-23.27.03:407][ 63]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-23.27.03:407][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-23.27.03:407][ 63]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.11.09-23.27.03:413][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.09-23.27.03:417][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-23.27.03:433][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-23.27.03:435][ 63]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2026.11.09-23.27.03:435][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2026.11.09-23.27.03:436][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2026.11.09-23.27.03:443][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.11.09-23.27.03:493][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2026.11.09-23.28.17:580][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.11.09-23.28.54:610][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.11.09-23.28.54:615][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.082
+[2026.11.09-23.32.24:384][424]LogEditorTransaction: Undo Mover nodo
+[2026.11.09-23.32.24:664][424]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.24:667][424]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.25:553][476]LogEditorTransaction: Undo Crear vínculo entre pines
+[2026.11.09-23.32.25:837][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.25:838][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.34:122][169]LogEditorTransaction: Undo Crear vínculo entre pines
+[2026.11.09-23.32.34:399][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.34:400][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.35:352][224]LogEditorTransaction: Undo Mover nodo
+[2026.11.09-23.32.35:625][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.35:626][224]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.36:375][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25890.617188
+[2026.11.09-23.32.36:554][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.32.36:554][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25890.785156, Update Interval: 313.575867
+[2026.11.09-23.32.37:109][330]LogEditorTransaction: Undo Editar Show Pin
+[2026.11.09-23.32.37:413][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.32.37:414][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.38.40:859][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26255.775391
+[2026.11.09-23.38.41:055][313]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.38.41:055][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26255.964844, Update Interval: 324.906769
+[2026.11.09-23.38.54:712][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.11.09-23.38.54:716][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2026.11.09-23.38.54:717][521]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.11.09-23.38.54:750][521]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.11.09-23.38.54:750][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.11.09-23.38.54:765][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2026.11.09-23.38.54:765][521]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_ThirdPersonCharacter_Auto6A710237345520387B42BCDB301696589.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2026.11.09-23.38.54:767][521]LogFileHelpers: Auto-saving content packages took 0.050
+[2026.11.09-23.41.57:079][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.41.57:128][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.11.09-23.41.57:162][679]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.11.09-23.41.57:162][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.11.09-23.41.57:176][679]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.11.09-23.41.57:177][679]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_ThirdPersonCharacter16A79EAC4D644490FAD4A69157A500E3.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.11.09-23.41.57:188][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.603 ms (total: 5.28 sec)
+[2026.11.09-23.41.57:212][679]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-23.41.57:212][679]LogContentValidation: Enabled validators:
+[2026.11.09-23.41.57:212][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.41.57:212][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.41.57:212][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.41.57:212][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.41.57:212][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.41.57:212][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.41.57:212][679]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando recurso
+[2026.11.09-23.42.17:707][388]LogEditorTransaction: Undo Elimina los elementos seleccionados.
+[2026.11.09-23.42.17:986][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.42.17:987][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.09-23.42.24:357][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.42.24:399][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.11.09-23.42.24:433][921]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.11.09-23.42.24:433][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.11.09-23.42.24:447][921]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.11.09-23.42.24:448][921]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_ThirdPersonCharacterD5603C51411622B32505FB92FF3DA3B5.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.11.09-23.42.24:460][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.922 ms (total: 5.38 sec)
+[2026.11.09-23.42.24:490][921]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.09-23.42.24:491][921]LogContentValidation: Enabled validators:
+[2026.11.09-23.42.24:491][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.42.24:491][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.42.24:491][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.42.24:491][921]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.42.24:491][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.42.24:491][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.42.24:491][921]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando recurso
+[2026.11.09-23.42.26:130][ 72]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2026.11.09-23.42.26:136][ 72]LogContentBundle: [ThirdPersonMap(Autónomo)] Generating Streaming for 0 Content Bundles.
+[2026.11.09-23.42.26:136][ 72]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.11.09-23.42.26:137][ 72]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.678 ms (total: 116.135 ms)
+[2026.11.09-23.42.26:140][ 72]LogPlayLevel: [PlayLevel] Compiling ABP_Runner before play...
+[2026.11.09-23.42.26:141][ 72]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2026.11.09-23.42.26:369][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.11.09-23.42.26:373][ 72]LogPlayLevel: PlayLevel: Blueprint regeneration took 235 ms (2 blueprints)
+[2026.11.09-23.42.26:373][ 72]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-23.42.26:375][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002222s)
+[2026.11.09-23.42.26:375][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002250s)
+[2026.11.09-23.42.26:392][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.11.09-23.42.26:394][ 72]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.11.09-23.42.26:396][ 72]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.11.09-23.42.26:396][ 72]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.11.09-23.42.26:396][ 72]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.11.09-23.42.26:396][ 72]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.11.09-23.42.26:396][ 72]LogWorldPartition: Display: WorldPartition initialize took 869 us (total: 232.534 ms)
+[2026.11.09-23.42.26:397][ 72]LogPlayLevel: PIE: World Init took: (0.002228s)
+[2026.11.09-23.42.26:397][ 72]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2026.11.09-23.42.26:397][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.09-23.42.26:397][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.09-23.42.26:397][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.09-23.42.26:397][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.09-23.42.26:397][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.09-23.42.26:397][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.09-23.42.26:397][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.09-23.42.26:397][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.09-23.42.26:397][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.09-23.42.26:397][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.09-23.42.26:397][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.09-23.42.26:400][ 72]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.09-23.42.26:420][ 72]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (MOMENTUM 4)
+[2026.11.09-23.42.26:421][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.09-23.42.26:421][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.09-23.42.26:421][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.09-23.42.26:421][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2026.11.09-23.42.26:421][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2026.11.09-23.42.26:423][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2026.11.09-23.42.26:423][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2026.11.09-23.42.26:423][ 72]LogInit: FAudioDevice initialized with ID 68.
+[2026.11.09-23.42.26:423][ 72]LogAudio: Display: Audio Device (ID: 68) registered with world 'ThirdPersonMap'.
+[2026.11.09-23.42.26:423][ 72]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2026.11.09-23.42.26:426][ 72]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.09-23.42.26:427][ 72]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.11.09-20.42.26
+[2026.11.09-23.42.26:427][ 72]LogWorld: Bringing up level for play took: 0.001130
+[2026.11.09-23.42.26:429][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2026.11.09-23.42.26:432][ 72]LogBlueprintUserMessages: [BP_TileSpawner_C_UAID_4C23387BC5343F1303_1943603983] Spawner Iniciado
+[2026.11.09-23.42.26:435][ 72]PIE: El servidor ha iniciado sesión
+[2026.11.09-23.42.26:435][ 72]PIE: Tiempo de inicio total de la reproducción en el editor de 0,3 segundos.
+[2026.11.09-23.42.57:575][ 66]LogBlueprintUserMessages: [BP_BarreraDestructible_C_9] Choque
+[2026.11.09-23.43.09:539][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-23.43.09:540][232]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.11.09-23.43.09:540][232]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.11.09-23.43.09:541][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-23.43.09:541][232]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.11.09-23.43.09:547][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.09-23.43.09:556][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.09-23.43.09:575][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.09-23.43.09:576][232]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2026.11.09-23.43.09:576][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2026.11.09-23.43.09:578][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2026.11.09-23.43.09:584][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.11.09-23.43.09:640][233]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2026.11.09-23.43.12:905][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.43.12:978][548]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GeometryCollectionActor_UAID_4C23387BC5344A1303_1974809923 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/HS/PH9BPV03GO0Q7TAVM95FQE.PackageMetaData in its package
+[2026.11.09-23.43.12:978][548]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_4C23387BC5344A1303_1903113922 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LL/G6O0U74K56LESJXE3ZFQIZ.PackageMetaData in its package
+[2026.11.09-23.43.12:979][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.11.09-23.43.13:001][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.11.09-23.43.13:019][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.11.09-23.43.13:033][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.972 ms (total: 5.51 sec)
+[2026.11.09-23.43.13:078][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.11.09-23.44.45:165][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26620.330078
+[2026.11.09-23.44.46:163][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.44.46:163][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26620.996094, Update Interval: 351.600708
+[2026.11.09-23.51.31:141][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27027.007812
+[2026.11.09-23.51.32:142][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.51.32:142][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27027.675781, Update Interval: 310.193787
+[2026.11.09-23.57.37:533][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27393.929688
+[2026.11.09-23.57.37:712][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.09-23.57.37:712][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27394.101562, Update Interval: 348.590363
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.BP_HealthComponent:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.SKEL_BP_HealthComponent_C' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.BP_HealthComponent_C' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.BP_HealthComponent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.BP_HealthComponent:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.BP_HealthComponent:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.BP_HealthComponent_C:RecibirDano' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.SKEL_BP_HealthComponent_C:UserConstructionScript' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.SKEL_BP_HealthComponent_C:RecibirDano' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.SKEL_BP_HealthComponent_C:ReceiveTick' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.SKEL_BP_HealthComponent_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:329][510]LogMetaData: Removing '/Game/BluePrints/BP_HealthComponent.SKEL_BP_HealthComponent_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_HealthComponent.PackageMetaData'
+[2026.11.09-23.58.52:344][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.09-23.58.52:344][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.11.09-23.58.52:377][510]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.11.09-23.58.52:377][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.11.09-23.58.52:391][510]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.11.09-23.58.52:392][510]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_ThirdPersonCharacter5348A1154AE431932EBA15AF43B56BA4.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.11.09-23.58.52:394][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/BP_HealthComponent] ([2] browsable assets)...
+[2026.11.09-23.58.52:394][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BP_HealthComponent]
+[2026.11.09-23.58.52:394][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_HealthComponent" FILE="../../../../../../UnityProyectos/Proyecto2PV3D/Content/BluePrints/BP_HealthComponent.uasset" SILENT=true
+[2026.11.09-23.58.52:398][510]LogSavePackage: Moving output files for package: /Game/BluePrints/BP_HealthComponent
+[2026.11.09-23.58.52:398][510]LogSavePackage: Moving '../../../../../../UnityProyectos/Proyecto2PV3D/Saved/BP_HealthComponent94AA66F249BA3301C3809AA27B1A2897.tmp' to '../../../../../../UnityProyectos/Proyecto2PV3D/Content/BluePrints/BP_HealthComponent.uasset'
+[2026.11.09-23.58.52:403][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.318 ms (total: 5.57 sec)
+[2026.11.09-23.58.52:502][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.11.09-23.58.52:527][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.11.09-23.58.52:544][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.11.09-23.58.52:569][510]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.11.09-23.58.52:569][510]LogContentValidation: Display: Starting to validate 2 assets
+[2026.11.09-23.58.52:569][510]LogContentValidation: Enabled validators:
+[2026.11.09-23.58.52:569][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.09-23.58.52:569][510]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.09-23.58.52:569][510]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.09-23.58.52:569][510]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.09-23.58.52:569][510]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.09-23.58.52:569][510]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.09-23.58.52:569][510]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validando recurso
+[2026.11.09-23.58.52:569][510]AssetCheck: /Game/BluePrints/BP_HealthComponent Validando recurso
+[2026.11.10-00.04.03:467][901]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27780.535156
+[2026.11.10-00.04.04:466][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.04.04:466][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27781.203125, Update Interval: 307.339081
+[2026.11.10-00.10.01:850][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28139.357422
+[2026.11.10-00.10.02:850][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.10.02:850][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28140.025391, Update Interval: 357.736755
+[2026.11.10-00.16.50:242][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28548.044922
+[2026.11.10-00.16.51:242][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.16.51:242][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28548.712891, Update Interval: 313.627136
+[2026.11.10-00.22.43:295][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28901.242188
+[2026.11.10-00.22.44:294][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.22.44:294][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28901.908203, Update Interval: 304.414795
+[2026.11.10-00.23.07:597][333]LogDerivedDataCache: C:/Users/diego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.10-00.28.23:688][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29241.783203
+[2026.11.10-00.28.24:686][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.28.24:686][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29242.449219, Update Interval: 352.461304
+[2026.11.10-00.35.03:754][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29642.003906
+[2026.11.10-00.35.04:755][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.35.04:755][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29642.669922, Update Interval: 354.074524
+[2026.11.10-00.41.58:493][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30056.962891
+[2026.11.10-00.41.59:494][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.41.59:494][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30057.630859, Update Interval: 306.260559
+[2026.11.10-00.47.53:550][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30412.218750
+[2026.11.10-00.47.54:550][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.47.54:550][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30412.884766, Update Interval: 349.262360
+[2026.11.10-00.54.25:607][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30804.423828
+[2026.11.10-00.54.26:606][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-00.54.26:606][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30805.089844, Update Interval: 324.813385
+[2026.11.10-01.00.21:995][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31160.982422
+[2026.11.10-01.00.22:996][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.10-01.00.22:996][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31161.650391, Update Interval: 319.752197
